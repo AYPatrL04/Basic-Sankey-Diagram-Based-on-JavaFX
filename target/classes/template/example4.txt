@@ -1,0 +1,22 @@
+Text Case 02
+TEST TOTAL
+Test Case 01 1000
+Test Case 02 2000
+Test Case 03 3000
+Test Case 04 4000
+Test Case 05 5000
+Test Case 06 5000
+Test Case 07 4000
+Test Case 08 3000
+Test Case 09 2000
+Test Case 10 1000
+Test Case 11 1000
+Test Case 12 2000
+Test Case 13 3000
+Test Case 14 4000
+Test Case 15 5000
+Test Case 16 5000
+Test Case 17 4000
+Test Case 18 3000
+Test Case 19 2000
+Test Case 20 1000

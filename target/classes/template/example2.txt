@@ -1,0 +1,8 @@
+Spending Plan
+Budget
+Taxes 500
+Housing 450
+Food 310
+Transportation 205
+Health Care 400
+Other Necessities 160
